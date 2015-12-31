@@ -1,5 +1,5 @@
 {
-  "name": "react-transform-hmr",
+  "name": "react-transform-hmr-no-accept",
   "version": "1.0.1",
   "description": "A React Transform that enables hot reloading React classes using Hot Module Replacement API",
   "main": "lib/index.js",
